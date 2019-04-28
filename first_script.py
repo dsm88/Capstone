@@ -1,0 +1,5 @@
+print('\n')
+print('****************************************')
+print('    Welcome to my first repo script!')
+print('****************************************')
+print('\n')
